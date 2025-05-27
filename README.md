@@ -61,9 +61,32 @@ I'm a **Full-Stack Software Engineer** and **Data Scientist** with a passion for
 - Built RESTful APIs for data upload, retrieval, and analysis
 - Created real-time monitoring dashboard for device status tracking
 
+## 🌱 Currently Learning
+
+- 🎨 **Chrome Extension Development** - Building browser extensions with modern web technologies
+- 🏛️ **Government APIs Integration** - Working with USCIS and federal data systems
+- 🔔 **Browser Notification Systems** - Implementing cross-platform reminder mechanisms
+- 🔐 **Client-Side Security** - Best practices for secure local data storage in browser extensions
 
 ## 🎯 What I'm Working On
 
+### 🟢 GreenCard Buddy (Open Source)
+**Chrome Extension | JavaScript, Chrome APIs, USCIS Integration**
+
+A Chrome browser extension helping immigration applicants track their green card application status and manage critical appointment reminders.
+
+**Key Features:**
+- 🔄 **Real-time Status Tracking** - Automated case status checking via USCIS Case Status API
+- 📊 **Visual Progress Tracking** - Intuitive timeline showing immigration process stages
+- ⏰ **Smart Reminders** - Never miss critical deadlines or appointments
+- 🔒 **Secure Local Storage** - Privacy-first approach with local data management
+- 🎯 **User-Friendly Interface** - Clean, accessible design for all users
+
+*Currently in active development - helping thousands of immigration applicants stay organized!*
+
+---
+
+**Other Projects:**
 - 🔍 Exploring advanced machine learning applications in mobile systems
 - 🚀 Building scalable backend architectures for high-traffic applications
 - 📱 Contributing to open-source Android development tools
@@ -71,9 +94,9 @@ I'm a **Full-Stack Software Engineer** and **Data Scientist** with a passion for
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuxuan-ma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuxumaaa@gmail.com)
 
 ---
 
-⭐️ From [YuxuanMa](https://github.com/yourusername) | *"Code is poetry written in logic"*
+⭐️ From [YuxuanMa](https://github.com/yuxuanmaaa) | *"Code is poetry written in logic"*
