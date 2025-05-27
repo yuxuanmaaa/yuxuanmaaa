@@ -61,11 +61,6 @@ I'm a **Full-Stack Software Engineer** and **Data Scientist** with a passion for
 - Built RESTful APIs for data upload, retrieval, and analysis
 - Created real-time monitoring dashboard for device status tracking
 
-## 📊 GitHub Stats
-
-![Yuxuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎯 What I'm Working On
 
